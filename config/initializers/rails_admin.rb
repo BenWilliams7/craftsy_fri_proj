@@ -3,10 +3,10 @@ RailsAdmin.config do |config|
   ### Popular gems integration
 
   config.authorize_with do
-    # unless current_user.try(:admin?)
-    #   flash[:error] = "You are not an admin"
-    #   redirect_to main_app.root_path
-    # end
+    unless current_user.try(:admin?)
+      flash[:error] = "You are not an admin"
+      redirect_to main_app.root_path
+    end
   end
 
   # == Devise ==
