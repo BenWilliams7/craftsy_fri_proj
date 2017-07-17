@@ -1,11 +1,22 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/benjaminwilliams/Desktop/Epicodus/craftsy_fri_proj/spec/models/product_spec.rb": [
+      "/Users/benjaminwilliams/Desktop/Epicodus/craftsy_fri_proj/spec/features/log_in_user_spec.rb": [
+        null,
         1,
         null,
         1,
-        2,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/benjaminwilliams/Desktop/Epicodus/craftsy_fri_proj/spec/rails_helper.rb": [
@@ -518,7 +529,7 @@
         null,
         null,
         1,
-        0,
+        10,
         0,
         0,
         null,
@@ -614,11 +625,11 @@
       "/Users/benjaminwilliams/Desktop/Epicodus/craftsy_fri_proj/app/helpers/application_helper.rb": [
         1,
         1,
-        0,
+        2,
         null,
         null,
         1,
-        0,
+        9,
         null,
         null
       ],
@@ -715,6 +726,79 @@
         1,
         1,
         null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/benjaminwilliams/Desktop/Epicodus/craftsy_fri_proj/spec/features/product_crud_spec.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/benjaminwilliams/Desktop/Epicodus/craftsy_fri_proj/spec/models/product_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        2,
+        2,
+        null
+      ],
+      "/Users/benjaminwilliams/Desktop/Epicodus/craftsy_fri_proj/spec/models/review_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        2,
+        null,
+        2,
+        2,
+        2,
+        null,
         null
       ],
       "/Users/benjaminwilliams/Desktop/Epicodus/craftsy_fri_proj/spec/models/user_spec.rb": [
@@ -726,6 +810,6 @@
         null
       ]
     },
-    "timestamp": 1499971349
+    "timestamp": 1500281364
   }
 }
