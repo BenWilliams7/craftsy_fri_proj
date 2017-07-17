@@ -1,6 +1,6 @@
 
 class ReviewsController < ApplicationController
-  # before_action :authorize, only: [:new, :create]
+  before_action :authenticate_user!, only: [:new, :create]
 
 
   def new
